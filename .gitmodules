@@ -1,0 +1,3 @@
+[submodule "src/chrislindsay.org/themes"]
+	path = src/chrislindsay.org/themes
+	url = https://github.com/vickylai/hugo-theme-introduction.git
