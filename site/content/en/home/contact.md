@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-form name="contact" netlify>
+<form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
