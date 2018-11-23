@@ -2,7 +2,7 @@
 title: Homoeostasis
 date: {}
 tags:
-  - coffee
+  - homoeostasis
   - ipsum
   - images
 published: true
