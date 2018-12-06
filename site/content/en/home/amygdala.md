@@ -9,20 +9,26 @@ published: false
 The term “emotional hijack” was coined by Daniel Goleman, in his book, Emotional Intelligence. 
 He defines chronic stress as uncrontrolable worry, when the emotional brain triggers an emotional response before the thinking brain has a chance to process it.
 
-low grade emotion hijacking, the worries seem to come from nowhere, are uncontrolable, generate a steady hum of anxiety, are impervious to reason, 
-
-anxiety comes in two forms thoughs and the physiological symptoms sweating, heart-rate, muscle tension
-
 
 ## Out of Control Emotions 
 
 - what this section is about
-Sustained low grade emotional hijackings generate a steady hum of anxiety, which in time can almost feel normal, but over time can ultimately lead to full blown chronic anxiety.
+
+Sustained emotional hijackings generate a steady hum of anxiety, which over time can ultimately lead to full blown chronic anxiety.
 
 - why it matters
 
+Chronic anxiety, can trigger the stress response which sets of a chain of reactions in the brain and body. You feel a surge of adrenaline, your heart quickens, your palms feel sweaty, your muscles tense up, these physiological reactions are called the "fight or fight" response. This is healthy if the situation is life threatening, but today we are triggered by being stuck in heavy traffic or work and home pressures. None of which are endangering our lives, well not directly. 
+
+Emotional stress can lead to sickness, when fight or flight is triggered daily and chemicals are released into the brain and body including; cortisol which boosts your energy for fight of flight, by increasing your blood pressure and glucose levels in the blood. Cortisol can also shut down functions that get in the way, including your digestive and immune system.
+
+After the danger has passed cortisol levels should return to normal along with your blood pressure and heart rate. 
+
+But, if you are under constant stress elevately levels, you get sick. 
 
 Time travelling, focusing on the past
+
+anxiety comes in two forms thoughs and the physiological symptoms sweating, heart-rate, muscle tension
 
 - research or examples
 
