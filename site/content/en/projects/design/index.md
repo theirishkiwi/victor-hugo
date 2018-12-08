@@ -1,10 +1,11 @@
 ---
-title: "Design"
-weight: 2 
+title: Design
+weight: 2
 resources:
-    - src: plant.jpg
-      params:
-          weight: -100
+  - src: plant.jpg
+    params:
+      weight: -100
+published: false
 ---
 
 This theme was designed by [Vicky Lai](https://vickylai.com). Go on, explore! 💪
