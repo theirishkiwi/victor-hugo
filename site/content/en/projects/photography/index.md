@@ -1,6 +1,7 @@
 ---
-title: "Photography"
+title: Photography
 weight: 1
+published: false
 ---
 
 ## Sometimes I take pictures
