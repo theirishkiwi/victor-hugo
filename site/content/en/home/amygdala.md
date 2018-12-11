@@ -3,7 +3,7 @@ title: Emotional Hijack
 weight: 1
 published: true
 ---
-The term “emotional hijack” was coined by Daniel Goleman, in his book, Emotional Intelligence. 
+The term “emotional hijack” was coined by Daniel Goleman, in his book, [Emotional Intelligence](https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306). 
 He defines chronic stress as uncrontrolable worry, when the emotional brain triggers an emotional response before the thinking brain has a chance to process it.
 
 
@@ -39,4 +39,9 @@ Managing our emotions, means we are less vunerable to the upheavals of the emoti
 ### Take a deep breath
 
 Taking a few deep slow breaths, has been shown to stimulate the vagus nerve triggering a relaxation response in your body, slowing your heart rate,  lowering your blood-pressure and decreasing cortisol in your body. The next time you feel stress or anxiety buildy, you can take 5 or 6 deep slow breaths over a minute and you'll feel your body relax and tension begin to release. I use this all the time, as you can do it anywhere. Sometimes we're in the car and my wife asks - "are you ok?" and I reply - "Yes. I'm just breathing." Try it for yourself.
+
+
+### The next step...
+
+If you you would like to learn more about relaxtion and restoring balance in your life
 
