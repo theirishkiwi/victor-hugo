@@ -12,7 +12,7 @@ He defines chronic stress as uncrontrolable worry, when the emotional brain trig
 Sustained emotional hijackings generate a steady hum of anxiety, which over time can ultimately lead to chronic anxiety.
 
 
-Chronic anxiety, can trigger the stress response which sets of a chain of reactions in the brain and body. You feel a surge of adrenaline, your heart quickens, your palms feel sweaty, your muscles tense up, these physiological reactions are known as the "fight or fight" response. This response is healthy if the situation is life threatening, but today we are triggered by so many events, from being stuck in heavy traffic, dealines at work, credit card bills, the list goes no. None of which are endangering our lives, well not directly. 
+Chronic anxiety, can trigger the stress response which sets of a chain of reactions in the brain and body. You feel a surge of adrenaline, your heart quickens, your palms feel sweaty, your muscles tense up, these physiological reactions are known as the "fight or fight" response. This response is healthy if the situation is life threatening, but today we are triggered by so many events, from being stuck in heavy traffic, dealines at work, credit card bills, the list goes on. None of which are endangering our lives, well not directly. 
 
 This Emotional stress can lead to sickness. When fight or flight is triggered daily releasing a stream of checmicals into the brain and body including; cortisol which boosts your energy for fight of flight, by increasing your blood pressure and glucose levels in the blood. Cortisol can also shut down functions that get in the way when danger strikes, including your digestive and immune system.
 
