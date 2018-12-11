@@ -1,7 +1,7 @@
 ---
 title: Emotional Hijack
 weight: 1
-published: false
+published: true
 ---
 # Emotional Hijack
 
@@ -22,7 +22,7 @@ After the danger has passed cortisol levels should return to normal along with y
 
 But, if you are under constant stress, with elevated levels, you get sick. 
 
-What are the effects of chronic stress? [Psychology Today](https://www.psychologytoday.com/blog/the-athletes-way/201301/cortisol-why-the-stress-hormone-is-public-enemy-no-1) summed it up: “Chronic stress and elevated cortisol levels also increase risk for depression, mental illness, weight gain, blood pressure and heart disease and interferes with learning and memory. 
+What are the effects of chronic stress? [Psychology Today](https://www.psychologytoday.com/blog/the-athletes-way/201301/cortisol-why-the-stress-hormone-is-public-enemy-no-1) summed it up: “Chronic stress and elevated cortisol levels also increase risk for depression, mental illness, weight gain, blood pressure and heart disease and interfere with learning and memory. 
 
 
 There is a growing body of research into the impact of chronic stress and with our lives becoming faster and tech keeping us connected 24/7, it can feel like there is no off switch, as our lives carear out of control. 
@@ -36,27 +36,9 @@ The problems occurs when we fail to handle our emotions properly they build up a
 
 Thankfully, with the right tools and routines you can train your body and mind to handle your emotions in a healthy way.
 
-Managing our emotions, means we are less vunerable to the upheavals of the emotional brain. we may not be able to control when an emotion may arise, but we can have some say in how long an emotion  may last.
+Managing our emotions, means we are less vunerable to the upheavals of the emotional brain. we may not be able to control when an emotion may arise, but we can have some say in how long an emotion may last, by getting your mind off your worries and focusing you mind instead on relaxation.
 
-managed by getting your mind off your worries and focusing you mind instead on relaxation.
+### Take a deep breath
 
-exercise
+Taking a few deep slow breaths, has been shown to stimulate the vagus nerve triggering a relaxation response in your body, slowing your heart rate,  lowering your blood-pressure and decreasing cortisol in your body. The next time you feel stress or anxiety buildy, you can take 5 or 6 deep slow breaths over a minute and you'll feel your body relax and tension begin to release. I use this all the time, as you can do it anywhere. Sometimes we're in the car and my wife asks - "are you ok?" and I reply - "Yes. I'm just breathing." Try it for yourself.
 
-mindful breathing
-
-
-
-- self awareness
-- monitor queues for anxiety
-with practice you can id the worries at an earlier and earlier stage
-relaxation methods
-practice daily
-challenge the anxious thoughts -
-- combination of mindfulness and healthy skepticism can act as a brake
-- actively producing a relaxed state counters the sensations the emotional brain is sending throughout the body
-- these strategies establish a train of mental activity that are incompatible with anxiety
-when a worry is allowed to repeat over and over unchallenged it gains in pursuasive power. Challenging it 
-- retraining of the emotional circutry through therapy is still needed...
-
-- research or examples
-- takeaways
