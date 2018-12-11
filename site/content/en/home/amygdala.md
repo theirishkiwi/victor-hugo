@@ -26,7 +26,7 @@ What are the effects of chronic stress? [Psychology Today](https://www.psycholog
 There is a growing body of research into the impact of chronic stress and with our lives becoming faster and tech keeping us connected 24/7, it can feel like there is no off switch, as our lives carear out of control. 
 
 
-## Feeling Healthy - Balance Restored
+## Balance Restored
 
 Emotions are vital for a healthy life. Without them life would be bland and we would be unable to make decisions about the simpliest of tasks as we would have no way to measure how we felt about one choice over another. it is these feelings that provide colour to our emotions. [Antonio R. Damasio](https://www.scientificamerican.com/article/feeling-our-emotions/), during 40 years of research has strived to show that feelings are what arise as the brain interprets emotions, which are purely physical signals of the body reacting to external stimuli.
 
