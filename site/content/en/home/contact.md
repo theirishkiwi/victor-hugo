@@ -9,7 +9,7 @@ If you have any questions about what you've read, or you just want to reach out.
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
   <p>
-    <label>Email: <input type="text" name="name" /></label>
+    <label>Name: <input type="text" name="name" /></label>
   </p>
   <p>
     <label>Email: <input type="text" name="email" /></label>
