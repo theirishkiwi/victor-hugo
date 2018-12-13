@@ -2,6 +2,8 @@
 title: "Contact"
 ---
 
+If you have any questions about what you've read, or you just want to reach out. Send me a note below, I would love to hear from you.
+
 <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
