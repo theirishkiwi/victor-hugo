@@ -23,7 +23,7 @@ However, if you are under constant stress, with elevated levels, you get sick.
 What are the effects of chronic stress? [Psychology Today](https://www.psychologytoday.com/blog/the-athletes-way/201301/cortisol-why-the-stress-hormone-is-public-enemy-no-1) summed it up: “Chronic stress and elevated cortisol levels also increase the risk for depression, mental illness, weight gain, blood pressure and heart disease and interfere with learning and memory. 
 
 
-If you search [Google Scholar](https://scholar.google.co.uk/) for "chronic stress and illness" returns about two million results. That's considerable research into the impact of chronic stress on us. You are now more connected than at any time in history; which has led to becoming reactive, overstimulated and being pulled in multiple directions at once. 
+Search [Google Scholar](https://scholar.google.co.uk/) for "chronic stress and illness" returns about two million results. That's considerable research into the impact of chronic stress on us. You are now more connected than at any time in history; which has led to becoming reactive, overstimulated and being pulled in multiple directions at once. 
 
 When was the last time you hit pause?
 
