@@ -1,6 +1,6 @@
 ---
 title: How to get out of Survival Mode by sleeping
-date: 2019-01-04T19:00:00.000Z
+date: {}
 tags:
   - sleep
   - survival mode
@@ -28,4 +28,6 @@ That's one example of what you can do to help get yourself out of survival mode 
 
 Of course, you can't necessarily take a nap at the office. But if that's something you can do a little 20 or 30-minute nap, can help to boost you. It would be the equivalent to taking a cup of coffee. So if you want to avoid that cup of coffee,  you can take a nap. That is something you can definitely consider doing as well. Just to boost your sleep. Try to get into that routine of sleeping regularly. I hope you found this video beneficial? Please let me know in the comments how much sleep you're getting and any of the techniques you've tried. Progressive Muscle Relaxation or the breathing exercises, the Box Breathing to help improve your overall health and well-being and get yourself out of survival mode. I'll post another video next week in this video series. Thanks for watching.
 
-I will speak to you soon. My name is Chris Lindsay.
+I will speak to you soon.
+
+Chris
