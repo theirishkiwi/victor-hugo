@@ -1,6 +1,6 @@
 ---
 title: How to get out of Survival Mode by sleeping
-date: {}
+date: {date: 2019-01-06T12:04:06-05:00}
 tags:
   - sleep
 published: false
