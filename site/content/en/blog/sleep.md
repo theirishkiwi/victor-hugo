@@ -10,7 +10,7 @@ published: true
 
 {{< youtube KChgx6ha0FQ >}}
 
-
+---
 
 Hi. My name is Chris Lindsay, from Chrislindsay.org. Welcome to this live video. This is the first in a series of videos on helping you to get out of survival mode. What if there was one thing you could do that by spending more time doing each day, you'd help prevent type 2 diabetes and heart disease.  You'd feel better physically and emotionally. You'd boost your immune system. You'd improve your memory, recall, decision making and attention. You'd actually look younger as well and put yourself in a good mood. Prevent depression, reduce stress and anxiety and even help with weight management. So what is this magical thing you might ask? It's sleep. Sleep amazingly can provide all these benefits and the amount of sleep can play a vital role in determining your overall health. Help prevent type 2 diabetes, heart disease, improve mood, reduce stress and anxiety and help prevent depression. So it's something that's really important.
 
