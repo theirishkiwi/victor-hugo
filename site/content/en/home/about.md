@@ -7,7 +7,7 @@ published: true
 
 I'm Chris Lindsay, the founder of this community and I've made it my one mission:  
 
-> Helping people living in survival mode, find relief. Equipping them for today's fast-paced lifestyle. So they can live empowered and thrive.
+> Helping people living in survival mode, find relief. Equipping them for today's fast-paced lifestyle. So they can thrive.
 
 
 I live in Edinburgh, Scotland with my wife, Leanne. I've been a competitive athlete from aged 14 when I discovered rowing.  Rowing gave me an outlet for my boundless energy, channelling it into structured training. Working as part of a team towards a common goal, increased my self-worth and esteem. I found if I trained hard and listened to my coach, I improved. I got faster and stronger. I was small and skinny then, so I also learnt I needed to train not just harder, but even smarter.
