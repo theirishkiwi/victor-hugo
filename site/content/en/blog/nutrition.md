@@ -1,5 +1,12 @@
-## How to get out of survival mode video series. Video two, on nutrition.
-
+---
+title: ## How to get out of survival mode video series. Video two, on nutrition.
+date: {}
+tags:
+  - nutrition
+  - survival mode
+  - thrive
+published: true
+---
 ---
 
 {{< youtube CMNK9fvESsA >}}
