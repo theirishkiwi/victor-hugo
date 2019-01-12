@@ -13,7 +13,7 @@ published: true
 
 ---
 
-Hi, thanks for taking the time to watch this live video. This is the second video on the series of How to Get Out of Survival Mode and in this video, I discuss nutrition. My name is Chris Lindsay, thanks for watching, from https://Chrislindsay.org.
+Hi, thanks for taking the time to watch this live video. This is the second video on the series of How to Get Out of Survival Mode and in this video, I discuss nutrition. My name is Chris Lindsay, thanks for watching. 
 
 ## Stress and eating. 
 
