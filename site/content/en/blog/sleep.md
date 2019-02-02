@@ -32,3 +32,28 @@ Of course, you can't necessarily take a nap at the office. But if that's somethi
 I will speak to you soon.
 
 Chris
+
+
+### The next step
+
+If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+
+PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+
+
+<form name="signup" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
+  <p>
+    <label>First Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email: <input type="text" name="email" /></label>
+  </p>
+  <p>
+    <button type=”submit”>Send</button>
+  </p>
+</form>
