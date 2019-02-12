@@ -46,6 +46,7 @@ Taking a few deep slow breaths has been shown to stimulate the vagus nerve trigg
 
 If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 
+
 PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
 
 > "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
