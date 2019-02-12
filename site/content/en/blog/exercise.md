@@ -37,3 +37,5 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 
 
 #### [Get the FREE PMR audio here!](https://fearextinguishers.com/)
+
+---
