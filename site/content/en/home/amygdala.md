@@ -42,7 +42,7 @@ Managing our emotions, means we are less vulnerable to the upheavals of the emot
 Taking a few deep slow breaths has been shown to stimulate the vagus nerve triggering a relaxation response in your body, slowing your heart rate,  lowering your blood pressure and decreasing cortisol in your body. The next time you feel stress or anxiety building, you can take 5 or 6 deep slow breaths over a minute, and you'll notice your body relax, and tension begins to release. I use this all the time, as you can do it anywhere. Sometimes we're in the car, and my wife asks - "are you ok?" and I reply - "Yes. I'm just breathing." Try it for yourself.
 
 
-### The next step
+### Ready to Thrive?
 
 If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 
@@ -51,17 +51,4 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 > "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
 
 
-<form name="signup" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-  <p class="hidden">
-    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-  </p>
-  <p>
-    <label>First Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email: <input type="text" name="email" /></label>
-  </p>
-  <p>
-    <button type=”submit”>Send</button>
-  </p>
-</form>
+[Get the FREE PMR audio here!](https://fearextinguishers.com/)
