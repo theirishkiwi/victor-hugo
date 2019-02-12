@@ -24,7 +24,7 @@ The good news is almost any kind of exercise helps reduce stress or anxiety. Wil
 
 The next time you arrive home stressed and feeling overwhelmed lace up your trainers and head out for a walk around the block. You’ll feel better when you get home. You might also find you sleep better and as I mentioned in my last video if you can walk through a park and take a moment to enjoy your natural surrounds you’ll be prescribing yourself nature as well, which can only be a good thing.
 
-### The next step
+### Ready to Thrive?
 
 If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
@@ -33,17 +33,4 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 > "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
 
 
-<form name="signup" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-  <p class="hidden">
-    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-  </p>
-  <p>
-    <label>First Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email: <input type="text" name="email" /></label>
-  </p>
-  <p>
-    <button type=”submit”>Send</button>
-  </p>
-</form>
+[Get the FREE PMR audio here!](https://fearextinguishers.com/)
