@@ -68,7 +68,7 @@ Taking those few little steps just to start to break the cycle of stress, anxiet
 
 ### Ready to Thrive?
 
-If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
 
 
 PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
@@ -76,4 +76,4 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 > "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
 
 
-#### [Get the FREE PMR audio here!](https://fearextinguishers.com/)
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
