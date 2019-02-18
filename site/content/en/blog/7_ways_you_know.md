@@ -1,6 +1,7 @@
 ---
 title: These are 7 ways you know you’re in Survival Mode
-date: '2019-02-17T18:45:15'
+date:
+  '[object Object]': null
 tags:
   - fatigue
   - prescribe nature
