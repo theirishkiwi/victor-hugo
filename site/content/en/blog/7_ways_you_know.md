@@ -1,7 +1,7 @@
 ---
 title: These are 7 ways you know you’re in Survival Mode
 date:
-  '[object Object]': null
+  'Sun Feb 17 2019 00:00:00 GMT+0000 (Greenwich Mean Time)': null
 tags:
   - fatigue
   - prescribe nature
