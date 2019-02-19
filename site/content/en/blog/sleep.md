@@ -1,8 +1,9 @@
 ---
 title: How to get out of Survival Mode by sleeping
-date: {}
+date: 2019-01-04T19:22:00.000Z
 tags:
   - sleep
+  - fatigue
   - survival mode
   - thrive
 published: true
