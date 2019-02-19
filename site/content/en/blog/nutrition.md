@@ -1,6 +1,6 @@
 ---
 title: How to get out of survival mode video series. On nutrition.
-date: {}
+date: 2019-01-11T21:29:00.000Z
 tags:
   - nutrition
   - survival mode
