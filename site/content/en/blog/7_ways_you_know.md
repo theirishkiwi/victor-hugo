@@ -1,6 +1,6 @@
 ---
 title: These are 7 ways you know you’re in Survival Mode
-date: 2019-02-17T18:45:00.000Z
+date: {}
 tags:
   - fatigue
   - prescribe nature
@@ -11,6 +11,10 @@ published: true
 ---
 {{< youtube joTKEI7pAug >}}
 ---
+
+> You can’t calm the storm, so stop trying. What you can do is calm yourself. The storm will pass.”
+—Timber Hawkeye
+
 
 Hi, guys. Welcome to today's live video. My name is Chris Lindsay. Today I wanted to cover seven ways you know if you're in survival mode. I'm just going to jump straight into it. These are basically signals from your body or things that you could pick up on. If you're experiencing one or more, then that's a good chance that your body's getting run down and you're in a state of chronic stress or survival mode. Your body's trying to fight-or-flight and trying to keep going and get through.
 
