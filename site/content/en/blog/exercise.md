@@ -1,6 +1,6 @@
 ---
 title: Are you doing this ONE thing to get out of Survival Mode? Watch to find out.
-date: 2019-02-10T11:19:00.000Z
+date: {}
 tags:
   - exercise
   - survival mode
@@ -26,7 +26,7 @@ The next time you arrive home stressed and feeling overwhelmed lace up your trai
 
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survial Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 
 
 
