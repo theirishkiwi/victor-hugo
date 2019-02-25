@@ -6,7 +6,7 @@ tags:
   - willpower
   - survival mode
   - thrive
-published: false
+published: true
 ---
 
 ---
