@@ -13,7 +13,7 @@ published: true
 {{< youtube 08S9kPN-5kQ >}}
 ---
 
-Hi, there! I think we're live. Thank you for joining me again on today's live video. Today, I want to talk about willpower and environment, and why one is better than the other, but keep watching to find out. Imagine a scenario where you've decided to give up sugar. You watched my video on [nutrition] (https://chrislindsay.org/blog/) and you know that sugary treats give you energy spikes followed by sugar crashes, which aren't great. You just want to feel a bit healthier so sugary treats have to go. You start out strong, you're determined, and you have more energy and you feel a little bit healthier already. Things are going well.
+Hi, there! I think we're live. Thank you for joining me again on today's live video. Today, I want to talk about willpower and environment, and why one is better than the other, but keep watching to find out. Imagine a scenario where you've decided to give up sugar. You watched my video on [nutrition] (https://chrislindsay.org/blog/nutrition) and you know that sugary treats give you energy spikes followed by sugar crashes, which aren't great. You just want to feel a bit healthier so sugary treats have to go. You start out strong, you're determined, and you have more energy and you feel a little bit healthier already. Things are going well.
 
 
 What happens when you arrive home from the stressful day in the office? You're feeling tired and you remember you have that chocolate in the cupboard, and it always makes you feel better after a stressful event. I'm sure you can guess what's going to happen. You're going to give in and have that sugary treat and feel bad about it. Or give up. Ultimately, it's not a great scenario. 
