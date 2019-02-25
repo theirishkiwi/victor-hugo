@@ -1,6 +1,6 @@
 ---
 title: Why Willpower Doesn't Work and what you should instead.
-date: {}
+date: 2019-02-24T19:37:00.000Z
 tags:
   - environment
   - willpower
