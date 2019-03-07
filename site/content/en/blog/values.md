@@ -1,6 +1,6 @@
 ---
 title: Living in alignment with your values reduces stress
-date: 2019-02-04T20:15:00.000Z
+date: 2019-03-04T20:15:00.000Z
 tags:
   - values
   - survival mode
