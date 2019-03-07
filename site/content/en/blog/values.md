@@ -1,10 +1,10 @@
 ---
-title: Most people overlook this when it comes to stress. I did!
+title: Living in alignment with your values reduces stress
 date: 2019-02-04T20:15:00.000Z
 tags:
   - values
   - survival mode
-published: false
+published: true
 ---
 
 ---
@@ -65,4 +65,3 @@ Those are a few things that I think help to establish that spending some time di
 
 If you've got any questions around establishing what your core values are, please respond in the comments below with your questions. if you do discover what your core values are then please do share those. I'll be definitely keen to see, and others might be keen to see too, so we can have a discussion around our core values. Whether it's trying to establish them, and they can provide different purspe. Just share what your core values are, so it can be interesting for them to see.
 Again, thanks for spending the time on this video, and I look forward to talking to you again next week. Take care.
-
