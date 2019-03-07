@@ -1,6 +1,6 @@
 ---
 title: Living in alignment with your values reduces stress
-date: {}
+date: 2019-03-04T20:15:00.000Z
 tags:
   - values
   - survival mode
@@ -79,4 +79,3 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 
 
 #### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
-
