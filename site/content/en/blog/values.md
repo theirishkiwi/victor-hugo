@@ -1,6 +1,6 @@
 ---
 title: Living in alignment with your values reduces stress
-date: 2019-03-04T20:15:00.000Z
+date: {}
 tags:
   - values
   - survival mode
@@ -66,3 +66,17 @@ Those are a few things that I think help to establish that spending some time di
 
 If you've got any questions around establishing what your core values are, please respond in the comments below with your questions. if you do discover what your core values are then please do share those. I'll be definitely keen to see, and others might be keen to see too, so we can have a discussion around our core values. Whether it's trying to establish them, and they can provide different purspe. Just share what your core values are, so it can be interesting for them to see.
 Again, thanks for spending the time on this video, and I look forward to talking to you again next week. Take care.
+
+
+### Ready to Thrive?
+
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+
+
+PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+
+
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+
