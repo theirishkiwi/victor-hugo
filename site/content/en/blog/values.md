@@ -4,6 +4,7 @@ date: 2019-02-04T20:15:00.000Z
 tags:
   - values
   - survival mode
+  - thrive
 published: true
 ---
 
