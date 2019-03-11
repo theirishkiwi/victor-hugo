@@ -1,5 +1,5 @@
 ---
-title: Emotioanl Agility
+title: Emotional Agility
 date: 2019-03-10T20:44:00.000Z
 tags:
   - emotional agility
