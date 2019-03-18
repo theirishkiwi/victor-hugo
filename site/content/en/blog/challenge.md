@@ -63,3 +63,15 @@ I see challenge as my number one core value.
 
 Again, thanks for watching this week's video. If you've got any questions or comments, please leave them below and I will endeavor to answer them. I will speak to you again next week.
 
+
+### Ready to Thrive?
+
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+
+
+PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+
+
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
