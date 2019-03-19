@@ -1,5 +1,5 @@
 ---
-title: Are you doing this ONE thing to get out of Survival Mode? Watch to find out.
+title: Do this one thing to Thrive! Watch to find out.
 date: 2019-02-10T11:19:00.000Z
 tags:
   - exercise
