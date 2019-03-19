@@ -1,5 +1,5 @@
 ---
-title: Living in alignment with your values reduces stress
+title: Living in alignment with your values helps you Thrive
 date: 2019-03-04T20:15:00.000Z
 tags:
   - values
