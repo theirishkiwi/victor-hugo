@@ -42,7 +42,7 @@ This value that I'm talking about is challenge.
 Let me give you a little example about why I see challenge as so vital.
 There was a bio-dome (Biosphere 2) that was built in the Arizona desert in the late '80s. This was a perfectly controlled environment for growing plants, and for animals and humans to live in for extended periods of time for research. 
 
-### Don't be a push over! 
+### We need the wind! 
 
 What they discovered was that trees would grow to a certain height within this environment before toppling over. Scientists were quite baffled by this initially until they worked out that the one thing that this environment was missing was wind.
 The trees needed the wind to be bent and shaken. Allowed them to grow straight and strong. 
