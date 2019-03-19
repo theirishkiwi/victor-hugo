@@ -1,5 +1,5 @@
 ---
-title: How to get out of Survival Mode by sleeping
+title: Sleep to Thrive!
 date: 2019-01-04T19:22:00.000Z
 tags:
   - sleep
