@@ -1,5 +1,5 @@
 baseURL                          = "/"  # Your domain name. Must end with "/"
-theme                            = "introduction"
+theme                            = "arabica"      # "introduction"
 DefaultContentLanguage           = "en"                            # Default language for multilingual sites
 disqusshortname                 = "https-Fearextinguishers-com"    # https://gohugo.io/content-management/comments
 googleAnalytics                 = "UA-44642179-2"                  # https://gohugo.io/templates/internal/#google-analytics
