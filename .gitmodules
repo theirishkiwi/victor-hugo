@@ -4,3 +4,9 @@
 [submodule "site/themes/introduction"]
 	path = site/themes/introduction
 	url = https://github.com/vickylai/hugo-theme-introduction.git
+[submodule "themes/arabica"]
+	path = themes/arabica
+	url = https://github.com/nirocfz/arabica.git
+[submodule "site/themes/arabica"]
+	path = site/themes/arabica
+	url = https://github.com/nirocfz/arabica.git
