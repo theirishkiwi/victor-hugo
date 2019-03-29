@@ -5,7 +5,7 @@ tags:
   - today
   - thrive
   - survival mode
-published: false
+published: true
 ---
 
 ---
