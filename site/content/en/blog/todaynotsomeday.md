@@ -1,8 +1,8 @@
 ---
-title: Valuing Challenge
+title: Today, Not Someday
 date: 2019-03-24T19:50:00.000Z
 tags:
-  - today
+  - today not someday
   - thrive
   - survival mode
 published: true
