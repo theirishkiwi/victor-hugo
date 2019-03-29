@@ -23,18 +23,6 @@ I said, "Okay, yes. That sounds like a good idea." We got talking, and she was h
 Once she said that, I was like, "Well, what actually is stopping me?" I'd always used the excuse or a justification for planning into the future for someday, and that was because I needed to save up money. When actually stopped and thought about it, money was no longer an issue, I had saved enough money to go traveling, I couldn't use that as a reason for putting it off. I thought, well, what is actually stopping me and the fact of the matter was, nothing was stopping me.
 
 
-### Ready to Thrive?
-
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
-
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
-
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
-
-
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
-
-
 That got me thinking that, well, if nothing's stopping me, I need to either decide, right, I'm going traveling or give up on that goal or that dream. I thought, no, I'm going to go travelling here, and that actually, that's when it became real. Actually became quite scared because the fact that I then had to take action. I had to sort out my job, I had to work on leaving it, I needed to plan leaving my flat and I was sharing with a flatmate at the time. All these things listed item, I had about things I need to do, and that was quite daunting.
 
 I could probably very easily and just put it off and say, "Oh, yes, I'll do that someday, but I've waited five years, what's another couple of years? I thought, no, there's no reason that was stopping me, that thing kept going over and over in my head, round and round. That's the fact that nothing was stopping me other than myself, my excuses, my fear, whatever it was. Then I thought right, and I decided at that point, I'm going to go traveling, this is happening.
@@ -59,3 +47,14 @@ That's what I'm going to leave you with today. Today not someday and the Zig Zie
 
 I hope that's helpful. If you have any questions or any comments about that, please do leave them below. Yes, start taking action today, not someday. I had put off traveling for six years but I finally did do it. It did take that moment of action, of decision to say, "This is happening." Taking positive action momentum forward rather than just busy work, like tidying your room and putting off the inevitable. That's that positive action forward and then, yes achieving that result. Okay, thanks for watching. I will talk to you all next week.
 
+
+### Ready to Thrive?
+
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+
+PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+
+
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
