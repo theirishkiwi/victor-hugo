@@ -12,7 +12,7 @@ title = "What comes before Confidence?"
 
 ***
 
-Hello, thanks for joining me on today's live video. I want to talk about a thing called confidence today, but not as you might imagine. We normally think we need confidence first before we do something, but I want to try to explain that that might not be quite as you would imagine. Keep listening to find out about that. Is there a goal that you're trying to work towards at the moment? Something that you really want to achieve?
+Hello, thanks for joining me on today's live video. I want to talk about a thing called confidence today, but not as you might imagine. We normally think we need confidence first before we do something, but I want to explain that that might not be quite as you would imagine. Keep listening to find out about that. Is there a goal that you're trying to work towards at the moment? Something that you really want to achieve?
 
 You're maybe making progress, which will build momentum, but then you have off days. The off day might lead to multiple days and then a week or maybe even longer to the extent that you're losing ground. You're going backwards. Even feeling stuck. Ultimately, what gets knocked is your confidence. Confidence and momentum or progress are linked. As we mentioned already, not as you quite might imagine.
 
