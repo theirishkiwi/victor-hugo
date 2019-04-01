@@ -12,6 +12,8 @@ title = "What comes before Confidence?"
 
 ***
 
+
+
 ### Ready to Thrive?
 
 If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
