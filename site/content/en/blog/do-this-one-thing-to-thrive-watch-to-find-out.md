@@ -1,6 +1,5 @@
 +++
 date = "2019-03-31T20:10:00+00:00"
-draft = true
 published = false
 tags = ["survival mode", "thrive", "confidence", "progress", "action"]
 title = "What comes before Confidence?"
