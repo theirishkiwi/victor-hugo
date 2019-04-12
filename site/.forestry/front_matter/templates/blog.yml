@@ -1,11 +1,4 @@
 ---
 label: Blog
 hide_body: false
-display_field: date
-fields:
-- type: datetime
-  label: Date
-  hidden: false
-  name: date
-  config:
-    required: true
+fields: []
