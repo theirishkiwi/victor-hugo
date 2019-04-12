@@ -1,9 +1,11 @@
 ---
 label: Blog
-title: []
-date: []
-fields: []
-tags: []
-published: false
 hide_body: false
----
+display_field: date
+fields:
+- type: datetime
+  label: Date
+  hidden: false
+  name: date
+  config:
+    required: true
