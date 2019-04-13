@@ -1,4 +1,23 @@
 ---
-label: Blog
+label: Post
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: false
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DDT20:10:00+00:00
+    required: false
+- type: tag_list
+  name: tags
+  label: Tags
+- type: boolean
+  name: published
+  label: Published
+pages:
+- site/content/en/blog/
