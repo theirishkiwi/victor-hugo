@@ -1,10 +1,10 @@
-+++
-date = "2019-04-15T18:01:00+00:00"
-published = true
-tags = ["central park", " goals", "vision", "environment", "routine", "action"]
-title = "What running round Central Park taught me about goal setting"
+---
+date: "2019-04-15T18:01:00+00:00"
+published: true
+tags: ["central park", " goals", "vision", "environment", "routine", "action"]
+title: "What running round Central Park taught me about goal setting"
+---
 
-+++
 ---
 
 {{< youtube 1dOTIrk3cZ8 >}}
