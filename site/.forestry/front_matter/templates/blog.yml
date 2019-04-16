@@ -18,6 +18,6 @@ fields:
   label: Tags
 - type: boolean
   name: published
-  label: Published
+  label: published
 pages:
 - site/content/en/blog/what-running-round-central-park-taught-me-about-goal-setting.md
