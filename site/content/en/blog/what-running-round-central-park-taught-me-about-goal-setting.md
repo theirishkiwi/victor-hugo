@@ -3,13 +3,12 @@ date = "2019-04-15T18:01:00+00:00"
 published = true
 tags = ["central park", " goals", "vision", "environment", "routine", "action"]
 title = "What running round Central Park taught me about goal setting"
+
 +++
-
-***
-
+---
 {{< youtube 1dOTIrk3cZ8 >}}
+---
 
-***
 ## What running round Central Park taught me about goal setting
 
 Hi, thanks for joining me on today's live video. Today I want to talk about why running around Central Park helped me to think about setting goals. 
@@ -113,5 +112,3 @@ PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His
 
 
 #### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
-
-***
