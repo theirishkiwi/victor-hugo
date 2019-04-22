@@ -20,4 +20,5 @@ fields:
   name: published
   label: published
 pages:
+- site/content/en/blog/make-it-your-way-of-life.md
 - site/content/en/blog/what-running-round-central-park-taught-me-about-goal-setting.md
