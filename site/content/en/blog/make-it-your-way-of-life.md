@@ -1,7 +1,7 @@
 +++
 date = "2019-04-21T18:47:00+00:00"
 draft = true
-published = false
+published = true
 tags = ["survival mode", "challenge", "way of life", "new normal"]
 title = "Making it your way of life"
 
