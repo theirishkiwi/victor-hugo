@@ -6,9 +6,7 @@ title = "Better to be kind than right."
 
 +++
 ***
-
 {{< youtube hPqF1uWjUv8 >}}
-
 ***
 
 Hi, guys, thanks four joining me today on my live video. Today I'm talking about it's better to be kind than right. It seems that being right is almost like the natural reaction these days, always wanting to be right and show other people the error of their ways at almost all cost regardless of how it makes them feel or look. Social media seems to be good at making it so easy four us to be right and show the people how wrong they are regardless of how that situation might turn out. I think the internet, in general, seems to have a lot of that.
@@ -44,6 +42,7 @@ I also know that there are times when I get triggered still and react to a situa
 That's my thought four this week. That's been on my mind four a couple of weeks now. I've been in situations this week where I saw a driver drive into the bike box at the traffic lights and wanted to react. I did reacted in one situation where I felt a bit guilty because I think it was a mother who'd been stressed out possibly and hadn't meant to stop in the box, driving her kids home from school maybe and I felt bad.
 
 I think ultimately, not judging the situation or trying to say, "Well, you know why the person did that." Is just to be kind whether you think you're right or wrong I think is the right way to go. Anyway, I'm rambling on. Thanks to four watching this week's video and any comments, feedback or questions, as always leave them in the comments, I will come back to you. If you enjoy these videos then I encourage you to join my Facebook group, Unstuck and Thriving. As always, I will speak to you again next week.
+
 
 ### Ready to Thrive?
 
