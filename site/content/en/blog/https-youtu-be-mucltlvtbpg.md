@@ -6,9 +6,8 @@ title = "Set sail to a new destination"
 
 +++
 ***
-
 {{< youtube MUclTLvTBPg >}}
-
+***
 
 
 
