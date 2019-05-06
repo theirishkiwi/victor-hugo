@@ -33,9 +33,9 @@ For me that wind of an example was my dyslexia. At the age of eight I was diagno
 Yes the wind of change, the wind of dyslexia, the wind of whatever might be that challenges you in life can blow. But it's not that wind which blows you in the direction which is important, it's how you choose to set your sail. If you don't bother setting your sail then you are purely at the mercy of that challenge, that wind.
 For me the dyslexia that wind blew me in one direction, but I set my sail in a different direction and ultimately that leads to a different destination over time.
 
-It’s about choosing to set your sail in a different direction of your choosing and over time that leads you to a different destination. Yes that wind is constantly changing so we constantly have to be changing and reacting but it’s being responsive to that and constantly adjusting our sails as we go.
+It’s about choosing to set your sail in a different direction of your choosing and over time that leads you to a different destination. Yes that wind is constantly changing so we constantly have to be changing and reacting but it’s being responsive to that and constantly adjusting our sails as we go.I thought that was powerful. 
 
-I thought that was powerful. I'll share any notes below that there's a lot of his speeches and audios on YouTube. They're free as well, so you don't necessarily need to pay for them. I’ll put a link to that below.
+I'll share in notes below that there's a lot of his speeches and audios on YouTube. They're free as well, so you don't necessarily need to pay for them. [https://youtu.be/qRLLH1fL6cI](Here's the link.)
 
 That's all I wanted to share this week. Setting your sail and not being at the mercy of the winds of change or whatever might happen in your life. For me dyslexia didn't ultimately decide my outcome in life it was an advantage in the end, because it made me work harder at my reading and writing and everything else, punctuation and spelling.
 
