@@ -1,6 +1,6 @@
 +++
 date = "2019-05-04T23:00:00+00:00"
-published = false
+published = true
 tags = ["jim rohn", "thrive", "survival mode"]
 title = "Set sail to a new destination"
 
