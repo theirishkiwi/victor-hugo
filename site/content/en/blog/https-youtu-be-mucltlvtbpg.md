@@ -35,7 +35,7 @@ For me the dyslexia that wind blew me in one direction, but I set my sail in a d
 
 It’s about choosing to set your sail in a different direction of your choosing and over time that leads you to a different destination. Yes that wind is constantly changing so we constantly have to be changing and reacting but it’s being responsive to that and constantly adjusting our sails as we go.I thought that was powerful. 
 
-I'll share in notes below that there's a lot of his speeches and audios on YouTube. They're free as well, so you don't necessarily need to pay for them. [https://youtu.be/qRLLH1fL6cI](Here's the link.)
+I'll share in notes below that there's a lot of his speeches and audios on YouTube. They're free as well, so you don't necessarily need to pay for them. [Here's a link.](https://youtu.be/qRLLH1fL6cI)
 
 That's all I wanted to share this week. Setting your sail and not being at the mercy of the winds of change or whatever might happen in your life. For me dyslexia didn't ultimately decide my outcome in life it was an advantage in the end, because it made me work harder at my reading and writing and everything else, punctuation and spelling.
 
