@@ -10,11 +10,6 @@ title = "Set sail to a new destination"
 ***
 
 
-
-### Ready to Thrive?
-
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
-
 Hello. Thank you for joining me on today's live video. This week I've started reading or listening an audible book The Ultimate Jim Rohn Library. Jim Rohn was a businessman and motivational speaker and massive in the personal development industry. In fact, he mentored Tony Robbins amongst others in his career. Jim Rohn's has written many books, but the thing I like most about what he does are his speeches.
 
 ### Jim Rohn’s speeches
@@ -47,9 +42,11 @@ That's all I wanted to share this week. Setting your sail and not being at the m
 As always thanks for listening. Any comments or feedback please leave those below. I look forward to speaking to you again next week.
 
 
+### Ready to Thrive?
+
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 
 PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
-
 
 > "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
 
