@@ -10,3 +10,6 @@
 [submodule "site/themes/arabica"]
 	path = site/themes/arabica
 	url = https://github.com/nirocfz/arabica.git
+[submodule "site/themes/airspace"]
+	path = site/themes/airspace
+	url = git@github.com:themefisher/airspace-hugo.git
