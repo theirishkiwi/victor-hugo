@@ -5,9 +5,9 @@ tags = ["read", " success", "thrive", "library"]
 title = "Read to Succeed"
 
 +++
----  
-{{< youtube uF4Yn3DQdAI >}}  
---- 
+***
+{{< youtube uF4Yn3DQdAI >}}
+***
 
 Hi. Thanks for joining me today on my live video. Today, I will continue talking about Jim Rohn. I mentioned last week I 've started listening to his audible, The Ultimate Jim Rohn Library, which is about 10 plus hours of audio which he's recorded in live training's. Unfortunately, Jim Rohn has passed away in 2009, but his audios are still there. They are powerful in the areas of growth, self-improvement, wealth, health, and success.
 
@@ -27,3 +27,18 @@ That's what I started reading when I was younger, to the point where I would sta
 
 I wanted to share that with you today. Any struggles and challenges that you might be having, there's someone else out there who's written a book, who's overcome the same challenges. Why struggle yourself when you can learn from someone else who's had similar challenges? That's why I love reading so much because you're able to learn from other people. The key thing is, as much as you read these books, it's a matter of putting into practice, these things you learn, taking action. That, personally, is a thing I struggle with as well.
 That's what I want to leave you with today and build up your library, whether it be physical or, like myself, with my audible library. See how you get on. Any questions or comments on that, as always, I would love to hear them. I look forward to speaking with you again next week.
+
+
+### Ready to Thrive?
+
+If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+
+
+
+PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+
+
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+
+
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
