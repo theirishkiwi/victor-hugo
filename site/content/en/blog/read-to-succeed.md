@@ -1,7 +1,7 @@
 +++
 date = "2019-05-11T23:00:00+00:00"
 published = true
-tags = ["read", " success", "thrive", "library"]
+tags = ["read", " success", "thrive", "library", "Jim Rohn"]
 title = "Read to Succeed"
 
 +++
