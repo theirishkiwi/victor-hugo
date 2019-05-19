@@ -48,7 +48,7 @@ My Monday Challenge grew out of a challenge my mentor Benjamin Hardy gave me bac
 
 > "You're more likely to act yourself into feeling, than feeling yourself into action"
 >
-> * Jerome Bruner (American psychologist)
+> \- Jerome Bruner (American psychologist)
 
 Do something unexpected.
 
