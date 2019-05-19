@@ -4,7 +4,6 @@ title = "#MyMondayChallenge"
 weight = 1
 
 +++
- 
 > “You learn something valuable from all of the significant events and people, but you never touch your true potential until you challenge yourself to go beyond imposed limitations.”
 > ― Roy T. Bennett
 
@@ -14,9 +13,7 @@ I shuffled forward again, looked down, and thought if I'm going to jump I need t
 
 In a matter of moments, I had gone from feeling scared to confident. But until I chose to step off the edge of the diving board, the only thing stopping me was my own fear.
 
-> “Everything you want is on the other side of fear.”
->
-> * Jack Canfield
+> “Everything you want is on the other side of fear.”    - Jack Canfield
 
 As children, our lives were full of firsts. Full of opportunities to face our fears. Learning to ride a bike, learning to swim, your first day at school, first time catching the bus by yourself, jumping off a diving board.
 Each time you met the challenge you showed courage, proved you were capable and grew more confident.
