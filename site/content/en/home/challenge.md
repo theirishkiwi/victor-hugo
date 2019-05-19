@@ -62,7 +62,7 @@ I continued running up to Arthur's Seat every Monday morning before work for the
 
 ### #MyMondayChallenge.
 
-My weekly ritual grew into My Monday Challenge when I reviewed my core values and discovered 'challenge' was one of them. Our core or personal values are things we believe are important in our work and life. When I looked back at my life so far, the events that have shaped me into the person I am today were obstacles that could have defined me, but I chose to use them to grow and challenge me to become stronger, better and more determined. Being diagnosed with Dyslexia aged 8 and my height and skinniness when I discovered rowing at the age of 14. The two events, dyslexia followed by rowing, unrelated maybe but recently I saw how overcoming dyslexia prepared me for rowing a sport where and height and strength were natural advantages. Little did I know so was dyslexia for this short and skinny 14-year-old!
+My weekly ritual grew into My Monday Challenge when I reviewed my core values and discovered 'challenge' was one of them. Our core or personal values are things we believe are important in our work and life. When I looked back at my life so far, the events that have shaped me into the person I am today were obstacles that could have defined me, but I chose to use them to grow and challenge me to become stronger, better and more determined. Being diagnosed with Dyslexia aged 8 and my height and skinniness when I discovered rowing at the age of 14. The two events, dyslexia followed by rowing, unrelated maybe but recently I saw how overcoming dyslexia prepared me for rowing, a sport where my height and strength were not to my advantage. Dyslexia 
 
 ### Ready to Thrive?
 
