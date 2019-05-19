@@ -1,5 +1,5 @@
 +++
-published = false
+published = true
 title = "#MyMondayChallenge"
 weight = 1
 
