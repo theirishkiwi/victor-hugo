@@ -4,8 +4,7 @@ title = "#MyMondayChallenge"
 weight = 1
 
 +++
-### Challenge
-
+ 
 > “You learn something valuable from all of the significant events and people, but you never touch your true potential until you challenge yourself to go beyond imposed limitations.”
 > ― Roy T. Bennett
 
