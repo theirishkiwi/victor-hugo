@@ -34,11 +34,11 @@ Each step might have been a small one but every time you felt scared and acted a
 
 Why is showing courage so scary?
 
-Because just like me standing on the edge of the highest diving board aged 8, looking down. I didn't know I'd be ok until I jump. Until the moment I jumped I had no proof I'd be able to do it. Yes, I watched other kids climb up and jump off the top and were fine. The even looked like they enjoyed it. But, I didn't have the confidence until I did it.
+Because just like me standing on the edge of the highest diving board aged 8, looking down. I didn't know I'd be ok until I stepped off the edge. Until the moment took that step I had no proof I'd be able to do it. Yes, I watched other kids climb up and jump off the top and they were fine. The even looked like they enjoyed it. But, I didn't have the confidence until I did it.
 
 This is a funny thing about confidence. We think we need to feel confident first before we act. But, the reality is that's not how confidence works.
 
-You feel scared and jump anyway. As soon as you jump you prove to yourself you were capable and feel more confident as a result.
+You feel scared and do it anyway. As soon as you act you prove to yourself you are capable and feel more confident as a result.
 
 Now feeling more confident you climb up the steps and think I'm going to jump higher this time. And the cycle continues.
 
