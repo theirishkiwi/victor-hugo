@@ -1,7 +1,8 @@
 ---
 title: Emotional Hijack
-weight: 1
-published: true
+weight: "1"
+published: false
+
 ---
 The term “emotional hijack” was coined by Daniel Goleman, in his book, [Emotional Intelligence](https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306). 
 He defines chronic stress as uncontrollable worry when the emotional brain triggers an emotional response before the thinking mind has a chance to process it.
