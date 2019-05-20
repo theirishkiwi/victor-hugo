@@ -20,6 +20,7 @@ fields:
   name: published
   label: published
 pages:
+- site/content/en/blog/write-it-down.md
 - site/content/en/blog/read-to-succeed.md
 - site/content/en/blog/make-it-your-way-of-life.md
 - site/content/en/blog/better-to-be-kind-than-right.md
