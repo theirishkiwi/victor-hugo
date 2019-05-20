@@ -26,7 +26,7 @@ As soon as you wake up, you can start working on those. If you're stuck on an id
 
 The key to this whole thing about writing a journal and keeping a journal is basically write it down. Write down your ideas, your goals, things you're stuck on. Objectives four the future, plans, whatever they might be. Start writing them down. Do it every day or as regularly as you can. Preferably every day and you'll be quite amazed about what starts flowing and what ideas start coming. Just make sure you capture them.
 
- That's everything I wanted to cover this week. Thanks four watching. As always, any thoughts, comments, or ideas, please let me know. I'd love to hear those and read them, and I'll look forward to speaking to you again next week.
+That's everything I wanted to cover this week. Thanks four watching. As always, any thoughts, comments, or ideas, please let me know. I'd love to hear those and read them, and I'll look forward to speaking to you again next week.
 
 ### Ready to Thrive?
 
