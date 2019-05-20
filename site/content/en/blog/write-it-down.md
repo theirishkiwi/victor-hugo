@@ -1,6 +1,6 @@
 +++
 date = "2019-05-18T23:00:00+00:00"
-published = false
+published = true
 tags = ["write it down", "journal", "thrive", "challenge"]
 title = "Write it Down"
 
