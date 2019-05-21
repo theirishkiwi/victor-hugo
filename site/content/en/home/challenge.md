@@ -1,6 +1,6 @@
 +++
 published = true
-title = "#MyMondayChallenge"
+title = "#Choose Challenge"
 weight = 1
 
 +++
