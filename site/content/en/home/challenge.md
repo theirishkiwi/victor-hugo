@@ -41,9 +41,7 @@ Courage is necessary.
 
 Challenge ourselves takes courage.
 
-This is why I created Challenge Mondays. 
-
-As a way to help you start pushing out your comfort zones. Just as you did as a kid. When you acted in-spite of fear. You were scared and did it anyway!
+This is why I created Choose Challenge Coaching.
 
 Each step might have been a small one but every time you felt scared and acted anyway you grew. You felt more able and sure of yourself.
 
