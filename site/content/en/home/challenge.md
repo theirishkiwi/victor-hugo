@@ -7,13 +7,19 @@ weight = 1
 > “You learn something valuable from all of the significant events and people, but you never touch your true potential until you challenge yourself to go beyond imposed limitations.”
 > ― Roy T. Bennett
 
-I don't recall exactly how old I was at the time, maybe 8 years old. I was at the swimming pool with my family. This pool had a separate diving pool with three diving boards. A one, three and five metres. I remember vividly the first time I jumped off the highest board, even climbing the steps to reach the high board was scary. I stepped off the last step onto the diving platform, it felt wide and a long way to the edge! I slowly shuffled to towards the edge of the board and the water below started to come into view, opening up below as I move closer to the edge. My hands were clammy and a knot grew in my stomach. I reached the edge and looked down, then shuffled back a little, it was looked like a long way to the water below. Doubt filled my head with reasons not to jump. I also knew the longer I waited the greater the chance these doubts would talk me out of jumping. I weighed this with the thought of climbing back down the ladder.
+I don't recall exactly how old I was at the time, maybe 8 years old. I was at the swimming pool with my family. This pool had a separate diving pool with three diving boards a one, three and five metre. I remember vividly the first time I stepped off the highest board, even climbing the steps to reach the high board was scary. I stepped off the last step onto the diving platform, it felt a long way to the edge! I slowly shuffled to towards the edge of the board and the water started to come into view, opening up below as I inched closer to the edge. My hands were clammy and I had a knot in my stomach. I reached the edge and looked down, then stepped back a little, it looked like a long way to the water below. 
 
-I shuffled forward again, looked down, and thought if I'm going to jump I need to just do it. I remember thinking once I'm in the air there's no going back. I counted down and stepped off the board. All at once I felt rushing air, my tummy jumping into my mouth, I grabbed my nose and pointed my toes. I'd done it and survived! I felt amazing! Fear turned to excitement and satisfaction in an instant. I was out of the pool and back up the ladder to jump again, I was hooked.
+Doubt to hold, filling my head with reasons not to jump. I also knew the longer I waited the greater the chance these doubts would talk me out of jumping. I weighed this with the thought of climbing back down the ladder and the feelings of embarrassment and failure.
 
-In a matter of moments, I had gone from feeling scared to confident. But until I chose to step off the edge of the diving board, the only thing stopping me was my own fear.
+I shuffled forward again, looked down, and thought if I'm going to jump I need to just do it. I remember thinking, once I'm in the air there's no going back. I counted down and stepped off the board. 
+
+At once I felt rushing air, I grabbed my nose and pointed my toes. I'd done it and survived! I felt amazing! 
+
+In an instant, fear had turned to excitement and satisfaction. I was out of the pool and confidently climbing back up the ladder and this time I jumped off the board! I was hooked.
 
 > “Everything you want is on the other side of fear.”    - Jack Canfield
+
+In a matter of moments, I had gone from feeling scared to confident. But until I chose to step off the edge of the diving board, the only thing stopping me was myself.
 
 As children, our lives were full of firsts. Full of opportunities to face our fears. Learning to ride a bike, learning to swim, your first day at school, first time catching the bus by yourself, jumping off a diving board.
 Each time you met the challenge you showed courage, proved you were capable and grew more confident.
@@ -62,7 +68,7 @@ I continued running up to Arthur's Seat every Monday morning before work for the
 
 ### #MyMondayChallenge.
 
-My weekly ritual grew into My Monday Challenge. I discovered challenge was one of my core values. Our core or personal values are things we believe are important in our work and life. When I looked back at my life so far, the events that have shaped me into the person I am today were obstacles that could have defined me, but I chose to use them to grow and challenge me to become stronger, better and more determined. Being diagnosed with Dyslexia aged 8 and my height and skinniness when I discovered rowing at the age of 14. The two events, dyslexia followed by rowing, unrelated maybe but recently I saw how overcoming dyslexia prepared me for rowing, a sport where my height and strength were not to my advantage. Dyslexia 
+My weekly ritual grew into My Monday Challenge. I discovered challenge was one of my core values. Our core or personal values are things we believe are important in our work and life. When I looked back at my life so far, the events that have shaped me into the person I am today were obstacles that could have defined me, but I chose to use them to grow and challenge me to become stronger, better and more determined. Being diagnosed with Dyslexia aged 8 and my height and skinniness when I discovered rowing at the age of 14. The two events, dyslexia followed by rowing, unrelated maybe but recently I saw how overcoming dyslexia prepared me for rowing, a sport where my height and strength were not to my advantage. Dyslexia
 
 ### Ready to Thrive?
 
