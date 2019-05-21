@@ -59,7 +59,7 @@ Now with your new found confidence you'll climb back up the steps of the diving 
 
 A challenge works in much the same way. No one challenged me to jump off the top diving board but they could have done. If I had accepted the challenge and completed it, I'd have got the same result. I'd have done something that scared me and felt more confident as a result.
 
-My Monday Challenge grew out of a challenge my mentor Benjamin Hardy gave me back in October 2018. Ben, challenged me to get some quick wins to start building momentum. To break past any emotional resistance to change.
+Choose Challenge Coaching and #MyMondayChallenge grew out of a challenge my mentor Benjamin Hardy gave me back in October 2018. Ben, challenged me to get some quick wins to start building momentum. To break past any emotional resistance I had to change.
 
 > "You're more likely to act yourself into feeling, than feeling yourself into action"
 >
