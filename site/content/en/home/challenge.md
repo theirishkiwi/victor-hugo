@@ -41,19 +41,21 @@ Courage is necessary.
 
 Challenge ourselves takes courage.
 
-This is why I created Choose Challenge Coaching.
+This is why I created - Choose Challenge Coaching. I have found challenges in my life have caused me to grow faster and feel more confident as a result. 
 
-Each step might have been a small one but every time you felt scared and acted anyway you grew. You felt more able and sure of yourself.
+Each challenge might be small one but every time you felt scared and acted anyway you grew. You felt more able and sure of yourself.
 
 Why is showing courage so scary?
 
-Because just like me standing on the edge of the highest diving board aged 8, looking down. I didn't know I'd be ok until I stepped off the edge. Until the moment took that step I had no proof I'd be able to do it. Yes, I watched other kids climb up and jump off the top and they were fine. The even looked like they enjoyed it. But, I didn't have the confidence until I did it.
+Because just like me standing on the edge of the highest diving board aged 8, looking down. I didn't know I'd be ok until I stepped off the edge. Until the moment I took that step I had no proof I'd be able to do it. Yes, I watched other kids climb up and jump off the top and they were fine. They even looked like they enjoyed it. 
 
-This is a funny thing about confidence. We think we need to feel confident first before we act. But, the reality is that's not how confidence works.
+But, until I had the courage to act I felt scared. Only once I stepped off the edge, was fear replaced by exhilaration and confidence.
 
-You feel scared and do it anyway. As soon as you act you prove to yourself you are capable and feel more confident as a result.
+This is the funny thing about confidence. We think we need to feel confident first before we act. But, the reality is that's not how confidence works.
 
-Now feeling more confident you climb up the steps and think I'm going to jump higher this time. And the cycle continues.
+You feel scared and do it anyway. As soon as you've done it, you've proved to yourself you are capable and then you feel more confident as a result.
+
+Now with your new found confidence you'll climb back up the steps of the diving board only this time you jump even higher. And the cycle continues.
 
 A challenge works in much the same way. No one challenged me to jump off the top diving board but they could have done. If I had accepted the challenge and completed it, I'd have got the same result. I'd have done something that scared me and felt more confident as a result.
 
