@@ -21,20 +21,29 @@ In an instant, fear had turned to excitement and satisfaction. I was out of the 
 
 In a matter of moments, I had gone from feeling scared to confident. But until I chose to step off the edge of the diving board, the only thing stopping me was myself.
 
-As children, our lives were full of firsts. Full of opportunities to face our fears. Learning to ride a bike, learning to swim, your first day at school, first time catching the bus by yourself, jumping off a diving board.
-Each time you met the challenge you showed courage, proved you were capable and grew more confident.
+As children, our lives are full of firsts. Full of opportunities to face our fears. Learning to ride a bike, learning to swim, your first day at school, first time catching the bus by yourself, jumping off a diving board. Each time you met the challenge you showed courage, proved you were capable and grew more confident.
 
 As we move into adulthood, most of us become comfortable as we have fewer firsts, take fewer risks, stop finding opportunities to step out of our comfort zone.
 
 > "We try to design a future where courage is not required anymore."
+>
+> \- Dan Sullivan (Coach)
 
 What happens?
 
-Without courage, we stop growing. We stopping pushing at the edge of our comfort zones. Our comfort zones might even begin to close in around us as we look for the path of least resistance.
+Without courage, we stop growing. 
+
+Without challenge we stop pushing at the edges of our comfort zones.
+
+When we stop challenging ourselves, over time our comfort zones begin to close in around us as we look for the path of least resistance.
 
 Courage is necessary.
 
-This is why I created My Monday Challenge. As a way to help you start pushing out your comfort zones again. Just as you did as a kid. When you acted without fear, and even when you were scared and you did it anyway!
+Challenge ourselves takes courage.
+
+This is why I created Challenge Mondays. 
+
+As a way to help you start pushing out your comfort zones. Just as you did as a kid. When you acted without fear, and even when you were scared and you did it anyway!
 
 Each step might have been a small one but every time you felt scared and acted anyway you grew. You felt more able and sure of yourself.
 
