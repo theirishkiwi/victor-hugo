@@ -5,8 +5,9 @@ tags = []
 title = ""
 
 +++
-
-\---  {{< youtube 06QOaxUszps >}}  ---  
+---
+{{< youtube 06QOaxUszps >}}
+---  
 
 Hi guys, thanks for joining me today on this week's live video. Yesterday I completed my third Edinburgh Half Marathon. That's 13.1 miles. Today, I'm actually quite stiff and sore going up and down the stairs. When I sit still for too long, it gets quite painful. I get up and hobbling around. Yesterday's race was good but I want to talk today about what I've learnt from the three different races I've completed. I wanted to share that with you today.
 
@@ -24,7 +25,8 @@ They know next time if they maybe do more preparation, practice and train. That 
 
 You just need to do and the result will be confidence but you can then build on in future. That's really all I want to share today. Regardless of what challenges that you might be dealing with daily whether it be a chosen challenge, like a half marathon or maybe just general life challenges, by facing up to them and pushing through that fear to encourage then the confidence will then come and that's definitely the thing I've experienced personally. That's all I want to leave you with this week. I plan maybe do a run tomorrow. We shall see how I'm feeling. I'm still pretty stiff, as I've already said. Anyway, you have a good week. I will talk to you again next week.
 
-\### Ready to Thrive?
+
+### Ready to Thrive?
 
 If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
 
@@ -33,7 +35,7 @@ If you would like to learn more about getting out of Survival Mode and restoring
 PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
 
 
-> "An anxious mind cannot exist in a relaxed body" \~ Edmund Jacobson, MD
+> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
 
 
-\#### \[Get this FREE PMR audio here!\](https://fearextinguishers.com/)
+#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
