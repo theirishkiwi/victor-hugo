@@ -20,9 +20,10 @@ fields:
   name: published
   label: published
 pages:
-- site/content/en/blog/write-it-down.md
-- site/content/en/blog/read-to-succeed.md
-- site/content/en/blog/make-it-your-way-of-life.md
 - site/content/en/blog/better-to-be-kind-than-right.md
-- site/content/en/blog/what-running-round-central-park-taught-me-about-goal-setting.md
+- site/content/en/blog/make-it-your-way-of-life.md
+- site/content/en/blog/read-to-succeed.md
+- site/content/en/blog/write-it-down.md
+- site/content/en/blog/What I've Learn't from running a half marathon.md
 - site/content/en/blog/https-youtu-be-mucltlvtbpg.md
+- site/content/en/blog/what-running-round-central-park-taught-me-about-goal-setting.md
