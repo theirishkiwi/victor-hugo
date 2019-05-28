@@ -1,8 +1,8 @@
 +++
 date = "2019-05-26T23:00:00+00:00"
-published = false
-tags = []
-title = ""
+published = true
+tags = ["half marathon", "challenge", "doing it", "confidence"]
+title = "What I've learn't form running a half marathon. "
 
 +++
 ---
