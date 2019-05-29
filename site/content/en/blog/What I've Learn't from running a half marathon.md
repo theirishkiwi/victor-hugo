@@ -28,14 +28,18 @@ You just need to do and the result will be confidence but you can then build on 
 
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+Jim Rohn puts it best. "Success is nothing more than a few simple disciplines practiced daily." Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
+> "Success is nothing more than a few simple disciplines practiced daily." ~ Jim Rohn
 
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+> "Success is not to be pursued; it is to be attracted by the person you become." ~ Jim Rohn
 
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
 
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+> "You cannot change your destination overnight, but you can change your direction overnight." ~ Jim Rohn
 
+Ready?
 
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
