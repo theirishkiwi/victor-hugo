@@ -7,6 +7,6 @@ resources:
 - src: plant.jpg
   params:
     weight: "-100"
-published: false
+published: true
 
 ---
