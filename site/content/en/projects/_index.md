@@ -1,4 +1,4 @@
 ---
 title: Projects
-published: true
+published: false
 ---
