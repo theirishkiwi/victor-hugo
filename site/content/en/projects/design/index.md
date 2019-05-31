@@ -5,6 +5,6 @@ resources:
 - src: https://chrislindsay.wistia.com/medias/qcgovs34e5
   params:
     weight: "-100"
-published: true
+published: false
 
 ---
