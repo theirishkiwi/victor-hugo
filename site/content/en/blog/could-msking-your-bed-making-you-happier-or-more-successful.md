@@ -31,15 +31,15 @@ My suggestion is, spend those 30 seconds in the morning making your bed, set you
 
 Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-    > “Success is nothing more than a few simple disciplines practiced daily.” \~ Jim Rohn
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
 I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-    > “Success is not to be pursued; it is to be attracted by the person you become.” \~ Jim Rohn
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
 
 Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
 
-    > “You cannot change your destination overnight, but you can change your direction overnight.” \~ Jim Rohn
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
 
 Ready?
 
