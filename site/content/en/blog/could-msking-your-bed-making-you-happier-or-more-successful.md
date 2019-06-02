@@ -5,11 +5,9 @@ tags = ["making your bed", "happy", "successful", "thrive"]
 title = "Could msking your bed making you happier or more successful?"
 
 +++
-\--- 
-
-{{< youtube  YmQcDGBRZk8 >}}
-
- ---
+--- 
+{{< youtube YmQcDGBRZk8 >}}
+---
 
 Could making your bed make you more successful or happier? 
 
@@ -27,7 +25,7 @@ I can't say either way because I’ve been making my bed so long that I probably
 
 My suggestion is, spend those 30 seconds in the morning making your bed, set yourself up for success. One task successfully completed has the potential to lead to more tasks completed and make you feel more motivated through the day. That's really all I really wanted to share with you this week and I will talk to you again next week.
 
-\### Ready to Thrive?
+### Ready to Thrive?
 
 Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
@@ -44,4 +42,4 @@ Seven days will not change your destination, but if you commit to getting up eve
 Ready?
 
 
-\#### \[Sign-me-up for The 7 Day Challenge!\](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
