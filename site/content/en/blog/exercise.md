@@ -24,18 +24,23 @@ The good news is almost any kind of exercise helps reduce stress or anxiety. Wil
 
 The next time you arrive home stressed and feeling overwhelmed lace up your trainers and head out for a walk around the block. You’ll feel better when you get home. You might also find you sleep better and as I mentioned in my last video if you can walk through a park and take a moment to enjoy your natural surrounds you’ll be prescribing yourself nature as well, which can only be a good thing.
 
+
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
+
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
+
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
+
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
 
 
-
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
-
-
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
-
-
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
-
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
 ---
