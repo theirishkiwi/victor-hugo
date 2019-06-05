@@ -48,13 +48,22 @@ That's what I'm going to leave you with today. Today not someday and the Zig Zie
 I hope that's helpful. If you have any questions or any comments about that, please do leave them below. Yes, start taking action today, not someday. I had put off traveling for six years but I finally did do it. It did take that moment of action, of decision to say, "This is happening." Taking positive action momentum forward rather than just busy work, like tidying your room and putting off the inevitable. That's that positive action forward and then, yes achieving that result. Okay, thanks for watching. I will talk to you all next week.
 
 
+
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
+
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
 
 
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
