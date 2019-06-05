@@ -34,12 +34,22 @@ That's what I started reading when I was younger, to the point where I would sta
 I wanted to share that with you today. Any struggles and challenges that you might be having, there's someone else out there who's written a book, who's overcome the same challenges. Why struggle yourself when you can learn from someone else who's had similar challenges? That's why I love reading so much because you're able to learn from other people. The key thing is, as much as you read these books, it's a matter of putting into practice, these things you learn, taking action. That, personally, is a thing I struggle with as well.
 That's what I want to leave you with today and build up your library, whether it be physical or, like myself, with my audible library. See how you get on. Any questions or comments on that, as always, I would love to hear them. I look forward to speaking with you again next week.
 
+
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.'
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
-> "An anxious mind cannot exist in a relaxed body" \~ Edmund Jacobson, MD
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
+
+
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
