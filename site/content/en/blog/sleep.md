@@ -30,15 +30,23 @@ That's one example of what you can do to help get yourself out of survival mode 
 
 Of course, you can't necessarily take a nap at the office. But if that's something you can do a little 20 or 30-minute nap, can help to boost you. It would be the equivalent to taking a cup of coffee. So if you want to avoid that cup of coffee,  you can take a nap. That is something you can definitely consider doing as well. Just to boost your sleep. Try to get into that routine of sleeping regularly. I hope you found this video beneficial? Please let me know in the comments how much sleep you're getting and any of the techniques you've tried. Progressive Muscle Relaxation or the breathing exercises, the Box Breathing to help improve your overall health and well-being and get yourself out of survival mode. I'll post another video next week in this video series. Thanks for watching.
 
-I will speak to you soon.
+
 
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below. 
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
+
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
 
 
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
