@@ -70,14 +70,22 @@ You need start looking after yourself. Take time out, rest and recover. I know i
 Taking those few little steps just to start to break the cycle of stress, anxiety and the survival mode. Getting out for walks, meditation, mindfulness. In some coming videos, I will go into more detail about how to manage survival mode, how do you get out of it, how to stop this constant cycle. If you watched my earlier videos, I talked about sleep, walking, prescribing yourself nature as well. I'm just going to finish up there for this week. If you got any questions or anything about what I covered, then please ask away and leave comments. I’m more than happy to answer any of them. I look forward to talking to you soon.
 
 
+
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
+
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
+
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
+
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
 
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.' 
-
-> "An anxious mind cannot exist in a relaxed body" ~ Edmund Jacobson, MD
-
-
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
