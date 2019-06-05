@@ -28,12 +28,23 @@ The key to this whole thing about writing a journal and keeping a journal is bas
 
 That's everything I wanted to cover this week. Thanks four watching. As always, any thoughts, comments, or ideas, please let me know. I'd love to hear those and read them, and I'll look forward to speaking to you again next week.
 
+
+
 ### Ready to Thrive?
 
-If you would like to learn more about getting out of Survival Mode and restoring balance in your life, start by getting this free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.'
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
-> "An anxious mind cannot exist in a relaxed body" \~ Edmund Jacobson, MD
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-#### [Get this FREE PMR audio here!](https://fearextinguishers.com/)
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
+
+
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
