@@ -79,12 +79,22 @@ I continued running up to Arthur's Seat every Monday morning before work for the
 
 My weekly ritual grew into My Monday Challenge. I discovered challenge was one of my core values. Our core or personal values are things we believe are important in our work and life. When I looked back at my life so far, the events that have shaped me into the person I am today were obstacles that could have defined me, but I chose to use them to grow and challenge me to become stronger, better and more determined. Being diagnosed with Dyslexia aged 8 and my height and skinniness when I discovered rowing at the age of 14. The two events, dyslexia followed by rowing, unrelated maybe but recently I saw how overcoming dyslexia prepared me for rowing, a sport where my height and strength were not to my advantage. Dyslexia
 
+
 ### Ready to Thrive?
 
-If you would like to learn more about relaxation and restoring balance in your life, start by getting my free Progressive Muscle Relaxation (PMR) on the go, audio, below.
+Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-PMR is a simple technique developed by Edmund Jacobson MD, PhD in the 1930s. His premise was that 'mental calmness is a natural result of physical relaxation.'
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
-> "An anxious mind cannot exist in a relaxed body" \~ Edmund Jacobson, MD
+I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-#### [Get the FREE PMR audio here!](https://fearextinguishers.com/)
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
+
+Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
+
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
+
+Ready?
+
+
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
