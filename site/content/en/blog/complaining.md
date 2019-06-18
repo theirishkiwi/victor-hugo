@@ -1,7 +1,7 @@
 +++
 date = "2019-06-14T23:00:00+00:00"
-published = false
-tags = ["negative", "positive", "complaining", "weather"]
+published = true
+tags = ["negative", "positive", "complaining", "weather", "NLP", "thoughts"]
 title = "How talking about the weather might be bad for you"
 
 +++
