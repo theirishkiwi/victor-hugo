@@ -5,10 +5,15 @@ tags = ["negative", "positive", "complaining", "weather"]
 title = "How talking about the weather might be bad for you"
 
 +++
-\---  {{< youtube TOFp4jtbD1I >}}  --- 
+---  
+{{< youtube  >}}
+--- 
 
 Hi, guys, thanks for joining me on today's live. Today I want to talk about the weather. Well, I don't want to talk about the weather. We love complaining about the weather. I want to talk about complaining. As humans, we love to complain. About the weather, about the traffic, about the weather, again. Probably about the weather most days, whether it's sunny or not sunny or wet or cold or however it might be. Often we can complain without even being aware we're doing it. I think the weather is a great example of that. Because we do it too often, our brains make it so easy for us to complain.
-This is true of any habit we create. Because it makes it so easy, it's often the first thought we have. Positive thoughts really don't have a chance, as the negative one gets there first. Jim Rohn has a great quote about this.
+This is true of any habit we create. Because it makes it so easy, it's often the first thought we have. Positive thoughts really don't have a chance, as the negative one gets there
+first. 
+
+Jim Rohn has a great quote about this.
 
 > "Our lives are mostly affected by the way we think things are, not the way they are."
 
@@ -36,21 +41,21 @@ With negative thoughts, we'll see things negatively. If predominately we have po
 
 Thanks for watching, as always. I'll talk to you again next week.
 
-\### Ready to Thrive?
+### Ready to Thrive?
 
 Jim Rohn puts it best. “Success is nothing more than a few simple disciplines practiced daily.” Are you ready to take your life to the next level? To start moving in a new direction? I would love nothing more that to see you go from stuck to succeeding; from surviving to thriving.
 
-    > “Success is nothing more than a few simple disciplines practiced daily.” \~ Jim Rohn
+> “Success is nothing more than a few simple disciplines practiced daily.” ~ Jim Rohn
 
 I have created a seven (7) day challenge, for you. It introduces one new discipline I practice everyday.
 
-    > “Success is not to be pursued; it is to be attracted by the person you become.” \~ Jim Rohn
+> “Success is not to be pursued; it is to be attracted by the person you become.” ~ Jim Rohn
 
 Seven days will not change your destination, but if you commit to getting up everyday determined to get from the day and not just through it, you can change the direction of your life in seven short days.
 
-    > “You cannot change your destination overnight, but you can change your direction overnight.” \~ Jim Rohn
+> “You cannot change your destination overnight, but you can change your direction overnight.” ~ Jim Rohn
 
 Ready?
 
 
-\#### \[Sign-me-up for The 7 Day Challenge!\](https://fearextinguishers.com/)
+#### [Sign-me-up for The 7 Day Challenge!](https://fearextinguishers.com/)
