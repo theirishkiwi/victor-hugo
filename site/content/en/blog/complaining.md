@@ -6,7 +6,7 @@ title = "How talking about the weather might be bad for you"
 
 +++
 ---  
-{{< youtube  >}}
+{{< youtube OVxlV9ZR_J8 >}}
 --- 
 
 Hi, guys, thanks for joining me on today's live. Today I want to talk about the weather. Well, I don't want to talk about the weather. We love complaining about the weather. I want to talk about complaining. As humans, we love to complain. About the weather, about the traffic, about the weather, again. Probably about the weather most days, whether it's sunny or not sunny or wet or cold or however it might be. Often we can complain without even being aware we're doing it. I think the weather is a great example of that. Because we do it too often, our brains make it so easy for us to complain.
