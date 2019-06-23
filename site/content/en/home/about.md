@@ -1,13 +1,13 @@
 ---
 title: About
 image: Chris_BGSR_320.jpg
-weight: 0
+weight: "0"
 published: true
 
 ---
 I'm Chris Lindsay, the founder of this community and I've made it my one mission:
 
-> Helping people stuck in survival mode, get unstuck. Equipping them with the tools they need. So they can thrive.
+> is to empower people. Helping them discover the disciplines to Peak Performance so they can thrive.
 
 I live in Edinburgh, Scotland with my wife, Leanne. I've been a competitive athlete from aged 14 when I discovered rowing.  Rowing gave me an outlet for my boundless energy, channelling it into structured training. Working as part of a team towards a common goal, increased my self-worth and esteem. I found if I trained hard and listened to my coach, I improved. I got faster and stronger. I was small and skinny then, so I also learnt I needed to train not just harder, but even smarter.
 
@@ -19,4 +19,4 @@ It is this mindset that I bring with me here. It is my absolute desire to equip 
 
 What stresses out one person, another may see as manageable or even exciting. Your ability to reframe a situation empowers you to face whatever life can throw at you.
 
-When you break out of survival mode, you find relief. Your body can finally restore itself to equilibrium (homoeostasis). Equipped with the right tools, you can thrive.
+When you discover the abilities you already have inside you already you can thrive. Your body can finally restore itself to equilibrium (homoeostasis). Equipped with the right tools, you can thrive.
