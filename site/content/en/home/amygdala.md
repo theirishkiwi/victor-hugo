@@ -2,7 +2,6 @@
 title: Emotional Hijack
 weight: "1"
 published: false
-draft: true
 
 ---
 The term “emotional hijack” was coined by Daniel Goleman, in his book, [Emotional Intelligence](https://www.amazon.co.uk/Emotional-Intelligence-Matter-More-Than/dp/0747528306). 
