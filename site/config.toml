@@ -1,93 +1,129 @@
-baseURL                          = "/"  # Your domain name. Must end with "/"
-theme                            = "introduction" # "arabica" 
-DefaultContentLanguage           = "en"                            # Default language for multilingual sites
-disqusshortname                 = "https-Fearextinguishers-com"    # https://gohugo.io/content-management/comments
-googleAnalytics                 = "UA-44642179-2"                  # https://gohugo.io/templates/internal/#google-analytics
+baseURL = "/"
+languageCode = "en-us"
+title = "Chris Lindsay | Own Life Not Crap"
+theme = "parsa-hugo"
+summaryLength = "10"
+paginate = 6
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+  page = ["HTML"]
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  
+
+  
+# navigation
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
 
 [params]
-    themeStyle                   = "light"                 # Choose "light" or "dark"
-    favicon                      = "/img/fav.ico"          # Path to favicon file
-    showRSSButton                = false                   # Show rss button in navigation
-    fadeIn                       = true                    # Turn on/off the fade-in effect
-    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
-    dateFormat                   = "Jan 2, 2006"
-    # email                        = "youremail@email.com"   # E-mail address for contact section
-    # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
+logo = "images/logo.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "This is meta description"
+# about author
+author = "Themefisher"
+authorImage = "images/banner-img.png"
+shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact Form Action
+contactFormAction = "#"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "a theme by [themefisher.com](themefisher.com)"
 
-    # Configure the home page
-    [params.home]
-        introHeight              = "large"                 # Input either "medium" or "large" or "fullheight"
-        showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
-        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+  # Preloader
+  [params.preloader]
+  enable = true
+  
+  # search
+  [params.search]
+  enable = true
 
-        localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "Europe/London"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-    [params.projects]
-        useTwoColumns            = false                   # Use a layout with two columns instead of three
+  # Instagram feed
+  [params.instafeed]
+  enable = true
+  userID = "4044026246"
+  accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
-    # Share buttons on blog post pages
-    [params.share]
-        twitter                  = true
-        facebook                 = true
-        googlePlus               = true
-        pinterest                = true
+  # footer
+  [params.footer]
 
-    # Social icons appear in introduction and contact section. Add as many more as you like.
-    # Find icon names here: https://fontawesome.com/cheatsheet/
-    [[params.social]]
-        url   = "https://twitter.com/chrisalindsay"
-        icon  = "twitter"
-    [[params.social]]
-        url   = "https://facebook.com/chrislindsay.org"
-        icon  = "facebook-f"
-    [[params.social]]
-        #url   = "https://linkedin.com/"
-        #icon  = "linkedin-in"
+    #address
+    [[params.footer.addresses]]
+    address = "Sydney"
+    
+    [[params.footer.addresses]]
+    address = "6 rip carl Avenue CA 90733"
 
-# If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
-# [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
+    
+    #contact information
+    [[params.footer.contacts]]
+    contactInfo = "Tel: +90 000 333 22"
+    
+    [[params.footer.contacts]]
+    contactInfo = "Mail: exmaple@ymail.com"
 
-# We only use tag as a taxonomies
-# You can add more by yourself
-[taxonomies]
-  tag = "tags"
 
-[languages]
-    [languages.en]
-        languageName     = "English"
-        languageCode     = "en-us"
-        contentDir       = "content/en"
-        weight           = 0
-        title            = "chrislindsay.org"
-        [languages.en.params]
-            description  = "Live to Thrive."   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
-
-#    [languages.es]
-#        languageName     = "Español"
-#        languageCode     = "es"
-#        contentDir       = "content/es"
-#        weight           = 1
-#        title            = "Introducción"
-#        [languages.es.params]
-#            description  = "Descripcion del sitio web"
-#            # footerText   = ""
-
-#    [languages.de]
-#        languageName     = "Deutsch"
-#        languageCode     = "de"
-#        contentDir       = "content/de"
-#        weight           = 2
-#        title            = "Vorstellung"
-#        [languages.de.params]
-#            dateFormat   = "2. January 2006"
-#            description  = "Beschreibung der Webseite"
-#            # footerText   = ""
+  # social site
+  [[params.social]]
+  icon = "ti-facebook"
+  URL = "#"
+  
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  URL = "#"
+  
+  [[params.social]]
+  icon = "ti-linkedin"
+  URL = "#"
+  
+  [[params.social]]
+  icon = "ti-github"
+  URL = "#"

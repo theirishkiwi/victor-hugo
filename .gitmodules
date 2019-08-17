@@ -13,3 +13,6 @@
 [submodule "site/themes/airspace"]
 	path = site/themes/airspace
 	url = git@github.com:themefisher/airspace-hugo.git
+[submodule "themes/parsa-hugo-personal-blog-theme"]
+	path = themes/parsa-hugo-personal-blog-theme
+	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme.git
