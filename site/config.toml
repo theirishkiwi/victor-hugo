@@ -1,7 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Chris Lindsay | Own Life Not Crap"
-theme = "parsa-hugo"
+#theme = "parsa-hugo"
+theme = "parsa-hugo-personal-blog-theme"
 summaryLength = "10"
 paginate = 6
 
